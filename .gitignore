@@ -1,3 +1,10 @@
-env/
 .DS_Store
 .talismanrc
+.env/
+.gitignore
+.vscode/
+
+streamlit_app/error.csv
+env/
+streamlit_app/words.txt
+__pycache__
